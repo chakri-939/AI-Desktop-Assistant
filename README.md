@@ -1,7 +1,7 @@
 # AI Desktop Assistant
 
 <div align="center">
-  <img alt="Demo" src="./project-5.png" />
+  <img alt="Demo" src="./project-5.jpg" />
 </div>
 
 <br/>
